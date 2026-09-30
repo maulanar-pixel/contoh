@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    font-family: 'Courier New', monospace;
+}
+body {
+    background-image: url("Bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    border: none;
+    margin-top: -15px;
+    padding: 300px;
+    display: left;
+    flex-direction: column;
+}
+#btn{
+    cursor: pointer;
+}
